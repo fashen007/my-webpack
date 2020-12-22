@@ -1,0 +1,17 @@
+{
+  "name": "my-webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/spademan/my-webpack.git",
+  "author": "黄永 <huangyong@kuaizi.co>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/traverse": "^7.12.10",
+    "fs": "^0.0.1-security"
+  },
+  "scripts": {
+    "nodestart": "node myWebpack.js"
+  }
+}
